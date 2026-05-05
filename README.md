@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,bots,docker,github,html,r,php,java,js,md,mysql,powershell,nodejs,py,vscode&perline=14" />
+</a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
