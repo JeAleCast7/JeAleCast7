@@ -45,8 +45,8 @@ outside_code:
 
 ### 🌐 Frontend
 <p>
-  <img src="icons/html5.svg" title="HTML5" width="42"/>
-  <img src="icons/css.svg" title="CSS3" width="42"/>
+  <img src="icons/html5.svg" title="HTML5" width="42" height="32"/>
+  <img src="icons/css.svg" title="CSS3" width="42" height="32"/>
   <img src="icons/javascript.svg" title="JavaScript" width="42"/>
   <img src="icons/typescript.svg" title="TypeScript" width="42"/>
   <img src="icons/react.svg" title="React" width="42"/>
