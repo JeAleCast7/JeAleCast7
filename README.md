@@ -14,7 +14,7 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
-### 👨‍💻 About Me
+### About this guy
 
 ```yaml
 name:       Jesus Alejandro
@@ -45,7 +45,7 @@ outside_code:
 
 ## Stack
 
-### 🌐 Frontend
+### Frontend
 <p>
   <img src="icons/html5.svg" title="HTML5" width="36"/>
   <img src="icons/css.svg" title="CSS3" width="42"/>
@@ -56,20 +56,20 @@ outside_code:
   <img src="icons/tailwind.svg" title="Tailwind CSS" width="42"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="icons/php.svg" title="PHP" width="50"/>
   <img src="icons/nodejs.svg" title="Node.js" width="42"/>
   <img src="icons/python.svg" title="Python" width="42"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="icons/mysql.svg" title="MySQL / MariaDB" width="42"/>
   <img src="icons/mongodb.svg" title="MongoDB" width="22"/>
 </p>
 
-### ☁️ DevOps & Deployment
+### Tools & Deployment
 <p>
   <img src="icons/xampp.svg" title="XAMPP" width="42"/>
   <img src="icons/docker.svg" title="Docker" width="42"/>
@@ -82,7 +82,7 @@ outside_code:
   <img src="icons/vscode.svg" title="VS Code" width="39"/>
 </p>
 
-### 💡 Payments & Automation
+### Payments & Automation
 <p>
   <img src="icons/stripe.svg" title="Stripe" width="35"/>
   <img src="icons/mercadopago.svg" title="Mercado Pago" width="42"/>
@@ -92,13 +92,13 @@ outside_code:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Inmobiliaria
+### Inmobiliaria
 **Real estate web platform** with role-based access for tenants, buyers, and sellers — built with a layered SOLID architecture.
 
 <p>
@@ -117,7 +117,7 @@ outside_code:
 </td>
 <td width="50%" valign="top">
 
-### 🤖 English Grammar Bot
+### English Grammar Bot
 **Daily B2-level grammar exercises** delivered via Telegram & WhatsApp using LLaMA 3.3-70b through Groq's API.
 
 <p>
@@ -138,7 +138,7 @@ outside_code:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center"></div>
 
@@ -150,7 +150,7 @@ outside_code:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
