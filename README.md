@@ -15,7 +15,7 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### About this guy
 
@@ -43,12 +43,12 @@ outside_code:
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ## Stack
 
 ### Frontend
-<p>
+<p align="center">
   <img src="icons/html5.svg" title="HTML5" width="36"/>
   <img src="icons/css.svg" title="CSS3" width="42"/>
   <img src="icons/javascript.svg" title="JavaScript" width="42"/>
