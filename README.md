@@ -15,9 +15,10 @@
 
 <table align="center">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-### About this guy
+<h3 align="center">About this guy</h3>
+
 
 ```yaml
 name:       Jesus Alejandro
@@ -58,18 +59,26 @@ outside_code:
   <img src="icons/tailwind.svg" title="Tailwind CSS" width="42"/>
 </p>
 
+<div style="display: flex; justify-content: space-between;">
+<div>
+
 ### Backend
 <p>
   <img src="icons/php.svg" title="PHP" width="50"/>
   <img src="icons/nodejs.svg" title="Node.js" width="42"/>
   <img src="icons/python.svg" title="Python" width="42"/>
-</p>
+
+</div>
+<div>
 
 ### Databases
-<p>
+
   <img src="icons/mysql.svg" title="MySQL / MariaDB" width="42"/>
   <img src="icons/mongodb.svg" title="MongoDB" width="22"/>
 </p>
+</div>
+
+</div>
 
 ### Tools & Deployment
 <p>
