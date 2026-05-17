@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Michael%20Alejandro&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=58&descSize=18&descColor=c9b8ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jesus%20Alejandro&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Web%20Developer&descAlignY=58&descSize=18&descColor=c9b8ff" width="100%"/>
 
 </div>
 
@@ -17,35 +17,37 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name:       Michael Alejandro
+name:       Jesus Alejandro
 handle:     JeAleCast7
-location:   Bogotá, Colombia 🇨🇴
-university: ESEIT — Software Engineering
+location:   Bogotá, Colombia
+university: ESEIT — Computer Engineering
 
 focus:
   - Web platforms with PHP & MariaDB
   - Workflow automation with n8n
-  - SOLID architecture & Docker
+  - SOLID/MCV architecture & Docker
 
 interests:
-  - Open Source
-  - Linux & Cybersecurity
+  - Backend
+  - Cybersecurity (Purple Team)
   - Browser Privacy
   - AI & Local LLMs (Ollama)
 
 outside_code:
-  - Working toward a one-arm push-up 💪
+  - Looking for C1 English Level (currently B2+)
+  - Musical Production with Reaper
+  - Guitar covers in Youtube (Jcastero)
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
 ### 🌐 Frontend
 <p>
-  <img src="icons/html5.svg" title="HTML5" width="42"/>
+  <img src="icons/html5.svg" title="HTML5" width="36"/>
   <img src="icons/css.svg" title="CSS3" width="42"/>
   <img src="icons/javascript.svg" title="JavaScript" width="42"/>
   <img src="icons/typescript.svg" title="TypeScript" width="42"/>
@@ -56,7 +58,7 @@ outside_code:
 
 ### ⚙️ Backend
 <p>
-  <img src="icons/php.svg" title="PHP" width="42"/>
+  <img src="icons/php.svg" title="PHP" width="50"/>
   <img src="icons/nodejs.svg" title="Node.js" width="42"/>
   <img src="icons/python.svg" title="Python" width="42"/>
 </p>
@@ -64,11 +66,12 @@ outside_code:
 ### 🗄️ Databases
 <p>
   <img src="icons/mysql.svg" title="MySQL / MariaDB" width="42"/>
-  <img src="icons/mongodb.svg" title="MongoDB" width="42"/>
+  <img src="icons/mongodb.svg" title="MongoDB" width="22"/>
 </p>
 
 ### ☁️ DevOps & Deployment
 <p>
+  <img src="icons/xampp.svg" title="XAMPP" width="42"/>
   <img src="icons/docker.svg" title="Docker" width="42"/>
   <img src="icons/git.svg" title="Git" width="42"/>
   <img src="icons/github.svg" title="GitHub" width="42"/>
@@ -76,15 +79,15 @@ outside_code:
   <img src="icons/linux.svg" title="Linux" width="42"/>
   <img src="icons/bash.svg" title="Bash" width="42"/>
   <img src="icons/powershell.svg" title="PowerShell" width="42"/>
-  <img src="icons/vscode.svg" title="VS Code" width="42"/>
+  <img src="icons/vscode.svg" title="VS Code" width="39"/>
 </p>
 
 ### 💡 Payments & Automation
 <p>
-  <img src="icons/stripe.svg" title="Stripe" width="42"/>
+  <img src="icons/stripe.svg" title="Stripe" width="35"/>
   <img src="icons/mercadopago.svg" title="Mercado Pago" width="42"/>
-  <img src="icons/n8n.svg" title="n8n" width="42"/>
-  <img src="icons/ollama.svg" title="Ollama" width="42"/>
+  <img src="icons/n8n.svg" title="n8n" width="50"/>
+  <img src="icons/ollama.svg" title="Ollama" width="30"/>
 </p>
 
 ---
@@ -137,13 +140,7 @@ outside_code:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JeAleCast7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeAleCast7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-</div>
+<div align="center"></div>
 
 <div align="center">
 
@@ -158,6 +155,12 @@ outside_code:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40JeAleCast7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeAleCast7)
+
+</div>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%40jcast__tero-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jcast_tero)
 
 </div>
 
