@@ -96,7 +96,7 @@ outside_code:
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h1 align="center">Featured Projects</h1>
 <div align="center">
 <img width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </div>
