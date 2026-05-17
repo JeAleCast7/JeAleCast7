@@ -42,9 +42,12 @@ outside_code:
   - Musical Production with Reaper
   - Guitar covers in Youtube (Jcastero)
 
-
-
 ```
+<div align="center">
+  <a href="https://open.spotify.com/track/608xszaAxVh4m7NcKJiAb">
+    <img src="icons/song.jpeg" width="250">
+  </a>
+</div>
 
 </td>
 <td width="50%" valign="top" align="center">
@@ -147,8 +150,6 @@ outside_code:
 </table>
 
 ---
-
-## Let's Connect
 
 <div align="center">
 
