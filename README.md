@@ -124,7 +124,7 @@ outside_code:
   <img src="icons/n8n.svg" width="22"/> n8n &nbsp;
   <img src="icons/telegram.svg" width="22"/> Telegram &nbsp;
   <img src="icons/whatsapp.svg" width="22"/> WhatsApp &nbsp;
-  <img src="icons/ollama.svg" width="22"/> LLaMA / Groq
+  <img src="icons/ollama.svg" width="22"/> Ollama / Groq
 </p>
 
 - 📬 Two-workflow architecture: delivery + evaluation
