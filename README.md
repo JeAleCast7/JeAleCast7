@@ -59,25 +59,14 @@ outside_code:
   <img src="icons/tailwind.svg" title="Tailwind CSS" width="42"/>
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-<div>
-
-### Backend
+### Backend & Databases
 <p>
   <img src="icons/php.svg" title="PHP" width="50"/>
   <img src="icons/nodejs.svg" title="Node.js" width="42"/>
   <img src="icons/python.svg" title="Python" width="42"/>
-
-</div>
-<div>
-
-### Databases
-
   <img src="icons/mysql.svg" title="MySQL / MariaDB" width="42"/>
   <img src="icons/mongodb.svg" title="MongoDB" width="22"/>
 </p>
-</div>
-
 </div>
 
 ### Tools & Deployment
@@ -107,59 +96,10 @@ outside_code:
 
 ---
 
-
-## Stack
-
-### Frontend
-<p>
-  <img src="icons/html5.svg" title="HTML5" width="36"/>
-  <img src="icons/css.svg" title="CSS3" width="42"/>
-  <img src="icons/javascript.svg" title="JavaScript" width="42"/>
-  <img src="icons/typescript.svg" title="TypeScript" width="42"/>
-  <img src="icons/react.svg" title="React" width="42"/>
-  <img src="icons/nextjs.svg" title="Next.js" width="42"/>
-  <img src="icons/tailwind.svg" title="Tailwind CSS" width="42"/>
-</p>
-
-### Backend
-<p>
-  <img src="icons/php.svg" title="PHP" width="50"/>
-  <img src="icons/nodejs.svg" title="Node.js" width="42"/>
-  <img src="icons/python.svg" title="Python" width="42"/>
-</p>
-
-### Databases
-<p>
-  <img src="icons/mysql.svg" title="MySQL / MariaDB" width="42"/>
-  <img src="icons/mongodb.svg" title="MongoDB" width="22"/>
-</p>
-
-### Tools & Deployment
-<p>
-  <img src="icons/xampp.svg" title="XAMPP" width="42"/>
-  <img src="icons/docker.svg" title="Docker" width="42"/>
-  <img src="icons/git.svg" title="Git" width="42"/>
-  <img src="icons/github.svg" title="GitHub" width="42"/>
-  <img src="icons/vercel.svg" title="Vercel" width="42"/>
-  <img src="icons/linux.svg" title="Linux" width="42"/>
-  <img src="icons/bash.svg" title="Bash" width="42"/>
-  <img src="icons/powershell.svg" title="PowerShell" width="42"/>
-  <img src="icons/vscode.svg" title="VS Code" width="39"/>
-</p>
-
-### Payments & Automation
-<p>
-  <img src="icons/stripe.svg" title="Stripe" width="35"/>
-  <img src="icons/mercadopago.svg" title="Mercado Pago" width="42"/>
-  <img src="icons/n8n.svg" title="n8n" width="50"/>
-  <img src="icons/ollama.svg" title="Ollama" width="30"/>
-</p>
-
-
-
----
-
-## Featured Projects
+<h3 align="center">Featured Projects</h3>
+<div align="center">
+<img width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</div>
 
 <table>
 <tr>
