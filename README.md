@@ -13,42 +13,37 @@
 ---
 
 
-<table width="100%">
-<!-- Esta fila fuerza el 50/50 — no se ve pero fija los anchos -->
+<table align="center">
 <tr>
-  <td width="50%"><img width="9999" height="0"/></td>
-  <td width="50%"><img width="9999" height="0"/></td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### About this guy
 
-<pre><code class="language-yaml">
+```yaml
 name:       Jesus Alejandro
 handle:     JeAleCast7
-location:   Bogotá, Colombia 🇨🇴
+location:   Bogotá, Colombia
 university: ESEIT — Computer Engineering
 
 focus:
-  - Web platforms with PHP and MariaDB
+  - Web platforms with PHP & MariaDB
   - Workflow automation with n8n
-  - SOLID/MVC architecture and Docker
+  - SOLID/MCV architecture & Docker
 
 interests:
-  - Backend Development
+  - Backend
   - Cybersecurity (Purple Team)
   - Browser Privacy
-  - AI and Local LLMs (Ollama)
+  - AI & Local LLMs (Ollama)
 
 outside_code:
-  - Targeting C1 English (currently B2+)
-  - Music Production with Reaper
-  - Guitar covers on YouTube (Jcastero)
-</code></pre>
+  - Looking for C1 English Level (currently B2+)
+  - Musical Production with Reaper
+  - Guitar covers in Youtube (Jcastero)
+```
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
 ## Stack
 
@@ -100,6 +95,58 @@ outside_code:
 </td>
 </tr>
 </table>
+
+---
+
+
+## Stack
+
+### Frontend
+<p>
+  <img src="icons/html5.svg" title="HTML5" width="36"/>
+  <img src="icons/css.svg" title="CSS3" width="42"/>
+  <img src="icons/javascript.svg" title="JavaScript" width="42"/>
+  <img src="icons/typescript.svg" title="TypeScript" width="42"/>
+  <img src="icons/react.svg" title="React" width="42"/>
+  <img src="icons/nextjs.svg" title="Next.js" width="42"/>
+  <img src="icons/tailwind.svg" title="Tailwind CSS" width="42"/>
+</p>
+
+### Backend
+<p>
+  <img src="icons/php.svg" title="PHP" width="50"/>
+  <img src="icons/nodejs.svg" title="Node.js" width="42"/>
+  <img src="icons/python.svg" title="Python" width="42"/>
+</p>
+
+### Databases
+<p>
+  <img src="icons/mysql.svg" title="MySQL / MariaDB" width="42"/>
+  <img src="icons/mongodb.svg" title="MongoDB" width="22"/>
+</p>
+
+### Tools & Deployment
+<p>
+  <img src="icons/xampp.svg" title="XAMPP" width="42"/>
+  <img src="icons/docker.svg" title="Docker" width="42"/>
+  <img src="icons/git.svg" title="Git" width="42"/>
+  <img src="icons/github.svg" title="GitHub" width="42"/>
+  <img src="icons/vercel.svg" title="Vercel" width="42"/>
+  <img src="icons/linux.svg" title="Linux" width="42"/>
+  <img src="icons/bash.svg" title="Bash" width="42"/>
+  <img src="icons/powershell.svg" title="PowerShell" width="42"/>
+  <img src="icons/vscode.svg" title="VS Code" width="39"/>
+</p>
+
+### Payments & Automation
+<p>
+  <img src="icons/stripe.svg" title="Stripe" width="35"/>
+  <img src="icons/mercadopago.svg" title="Mercado Pago" width="42"/>
+  <img src="icons/n8n.svg" title="n8n" width="50"/>
+  <img src="icons/ollama.svg" title="Ollama" width="30"/>
+</p>
+
+
 
 ---
 
