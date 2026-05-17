@@ -148,18 +148,6 @@ outside_code:
 
 ---
 
-## GitHub Stats
-
-<div align="center"></div>
-
-<div align="center">
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jealecast7?cardType=github&theme=ocean-dark&fontFamily=VT323&preferLogin=false)](https://git.io/awesome-stats-card)
-
-</div>
-
----
-
 ## Let's Connect
 
 <div align="center">
