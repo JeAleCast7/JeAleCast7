@@ -12,36 +12,43 @@
 
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+
+<table width="100%">
+<!-- Esta fila fuerza el 50/50 — no se ve pero fija los anchos -->
+<tr>
+  <td width="50%"><img width="9999" height="0"/></td>
+  <td width="50%"><img width="9999" height="0"/></td>
+</tr>
+<tr>
+<td valign="top">
 
 ### About this guy
 
-```yaml
+<pre><code class="language-yaml">
 name:       Jesus Alejandro
 handle:     JeAleCast7
-location:   Bogotá, Colombia
+location:   Bogotá, Colombia 🇨🇴
 university: ESEIT — Computer Engineering
 
 focus:
-  - Web platforms with PHP & MariaDB
+  - Web platforms with PHP and MariaDB
   - Workflow automation with n8n
-  - SOLID/MCV architecture & Docker
+  - SOLID/MVC architecture and Docker
 
 interests:
-  - Backend
+  - Backend Development
   - Cybersecurity (Purple Team)
   - Browser Privacy
-  - AI & Local LLMs (Ollama)
+  - AI and Local LLMs (Ollama)
 
 outside_code:
-  - Looking for C1 English Level (currently B2+)
-  - Musical Production with Reaper
-  - Guitar covers in Youtube (Jcastero)
-```
+  - Targeting C1 English (currently B2+)
+  - Music Production with Reaper
+  - Guitar covers on YouTube (Jcastero)
+</code></pre>
 
-<br clear="right"/>
-
----
+</td>
+<td valign="top">
 
 ## Stack
 
@@ -89,6 +96,10 @@ outside_code:
   <img src="icons/n8n.svg" title="n8n" width="50"/>
   <img src="icons/ollama.svg" title="Ollama" width="30"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -171,3 +182,5 @@ outside_code:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
