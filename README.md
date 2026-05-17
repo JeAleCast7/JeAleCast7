@@ -151,7 +151,7 @@ outside_code:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JeAleCast7&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jealecast7?cardType=github&theme=ocean-dark&fontFamily=VT323&preferLogin=false&Text=3F6DDD&borderRadius=15)](https://git.io/awesome-stats-card)
 
 </div>
 
