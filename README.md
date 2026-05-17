@@ -151,7 +151,9 @@ outside_code:
 
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jealecast7?cardType=github&theme=ocean-dark&fontFamily=VT323&preferLogin=false&Text=3F6DDD&borderRadius=15)](https://git.io/awesome-stats-card)
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&fontFamily=VT323&preferLogin=false">    
+<img  alt="jealecast7's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jealecast7?cardType=github&theme=ocean-dark&fontFamily=VT323&preferLogin=false" />  
+</a>
 
 </div>
 
