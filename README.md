@@ -86,6 +86,7 @@ outside_code:
   <img src="icons/bash.svg" title="Bash" width="42"/>
   <img src="icons/powershell.svg" title="PowerShell" width="42"/>
   <img src="icons/vscode.svg" title="VS Code" width="39"/>
+  <img src="icons/cloudflare.svg" title="Cloudflare" width="65"/>
 </p>
 
 ### Payments & Automation
