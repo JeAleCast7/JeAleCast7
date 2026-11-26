@@ -103,10 +103,10 @@ outside_code:
 
 ---
 
-<h1 align="center">Featured Projects</h1>
 <div align="center">
 <img width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </div>
+<h1 align="center">Featured Projects</h1>
 
 <table>
 <tr>
@@ -151,20 +151,14 @@ outside_code:
 </tr>
 </table>
 
----
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40JeAleCast7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeAleCast7)
-
-</div>
-
+<!---
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40jcast__tero-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jcast_tero)
 
 </div>
-
+--->
 ---
 
 <div align="center">
