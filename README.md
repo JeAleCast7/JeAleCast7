@@ -130,14 +130,15 @@ outside_code:
 </td>
 <td width="50%" valign="top">
 
-### English Grammar Bot
-**Daily B2-level grammar exercises** delivered via Telegram & WhatsApp using LLaMA 3.3-70b through Groq's API.
+### TrivaDudeBot
+**B2-level grammar exercises and Cybersecurity questions** delivered via Telegram & WhatsApp using Groq's API.
 
 <p>
   <img src="icons/n8n.svg" width="22"/> n8n &nbsp;
+  <img src="icons/docker.svg" width="22"/> Docker &nbsp;
   <img src="icons/telegram.svg" width="22"/> Telegram &nbsp;
-  <img src="icons/whatsapp.svg" width="22"/> WhatsApp &nbsp;
-  <img src="icons/ollama.svg" width="22"/> Ollama / Groq
+  <img src="icons/cloudflare.svg" width="22"/> Cloudflare &nbsp;
+  <img src="icons/groq.svg" width="22"/> Groq
 </p>
 
 - 📬 Two-workflow architecture: delivery + evaluation
